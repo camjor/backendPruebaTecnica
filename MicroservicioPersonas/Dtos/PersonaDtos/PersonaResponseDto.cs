@@ -1,0 +1,15 @@
+namespace MicroservicioPersonas.Dtos.PersonaDtos;
+
+public class PersonaResponseDto
+{
+    public string? Id { get; set; }
+    public string? Nombre { get; set; }
+    
+    public string? Apellido { get; set; }
+    public string? TipoPersona { get; set; }
+    public string? Especialidad { get; set; }
+    public string? Identificacion { get; set; }
+    public string? Email { get; set; }
+    public string? Token { get; set; }
+    public string? UserName { get; set; }
+}

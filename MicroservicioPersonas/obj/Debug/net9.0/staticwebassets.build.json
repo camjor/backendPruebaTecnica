@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "UaZFII8BKy7vgUvJ7CKTZ5uV4BXaWclxWspuFu8dE+4=",
+  "Source": "MicroservicioPersonas",
+  "BasePath": "_content/MicroservicioPersonas",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
