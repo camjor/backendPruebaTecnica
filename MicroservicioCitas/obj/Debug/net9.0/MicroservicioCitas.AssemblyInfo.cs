@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MicroservicioCitas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+199c3903cc055237245890abee9c61985777b052")]
 [assembly: System.Reflection.AssemblyProductAttribute("MicroservicioCitas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MicroservicioCitas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

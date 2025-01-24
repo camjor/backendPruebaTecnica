@@ -22,7 +22,7 @@ namespace MicroservicioCitas.Controllers
         private readonly IConfiguration _configuration;
 
         private readonly ICitaRepository _citaRepository;
-
+        //citas
         public CitasController(
             CitasContext context, 
             IHttpClientFactory httpClientFactory, 
