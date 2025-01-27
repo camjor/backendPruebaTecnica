@@ -176,3 +176,4 @@ C:\Users\fonse\Documents\curso_angular_net\PruebaTecnica\MicroservicioCitas\obj\
 C:\Users\fonse\Documents\curso_angular_net\PruebaTecnica\MicroservicioCitas\obj\Debug\net9.0\MicroservicioCitas.pdb
 C:\Users\fonse\Documents\curso_angular_net\PruebaTecnica\MicroservicioCitas\obj\Debug\net9.0\MicroservicioCitas.genruntimeconfig.cache
 C:\Users\fonse\Documents\curso_angular_net\PruebaTecnica\MicroservicioCitas\obj\Debug\net9.0\ref\MicroservicioCitas.dll
+C:\Users\fonse\Documents\curso_angular_net\PruebaTecnica\MicroservicioCitas\obj\Debug\net9.0\MicroservicioCitas.sourcelink.json

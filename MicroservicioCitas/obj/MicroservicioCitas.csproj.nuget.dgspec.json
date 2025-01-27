@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fonse\\Documents\\curso_angular_net\\PruebaTecnica\\MicroservicioCitas\\MicroservicioCitas.csproj": {}
+    "c:\\Users\\fonse\\Documents\\curso_angular_net\\PruebaTecnica\\MicroservicioCitas\\MicroservicioCitas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fonse\\Documents\\curso_angular_net\\PruebaTecnica\\MicroservicioCitas\\MicroservicioCitas.csproj": {
+    "c:\\Users\\fonse\\Documents\\curso_angular_net\\PruebaTecnica\\MicroservicioCitas\\MicroservicioCitas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fonse\\Documents\\curso_angular_net\\PruebaTecnica\\MicroservicioCitas\\MicroservicioCitas.csproj",
+        "projectUniqueName": "c:\\Users\\fonse\\Documents\\curso_angular_net\\PruebaTecnica\\MicroservicioCitas\\MicroservicioCitas.csproj",
         "projectName": "MicroservicioCitas",
-        "projectPath": "C:\\Users\\fonse\\Documents\\curso_angular_net\\PruebaTecnica\\MicroservicioCitas\\MicroservicioCitas.csproj",
+        "projectPath": "c:\\Users\\fonse\\Documents\\curso_angular_net\\PruebaTecnica\\MicroservicioCitas\\MicroservicioCitas.csproj",
         "packagesPath": "C:\\Users\\fonse\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fonse\\Documents\\curso_angular_net\\PruebaTecnica\\MicroservicioCitas\\obj\\",
+        "outputPath": "c:\\Users\\fonse\\Documents\\curso_angular_net\\PruebaTecnica\\MicroservicioCitas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fonse\\AppData\\Roaming\\NuGet\\NuGet.Config"

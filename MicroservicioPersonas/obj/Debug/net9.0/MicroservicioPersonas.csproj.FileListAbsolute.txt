@@ -175,3 +175,4 @@ C:\Users\fonse\Documents\curso_angular_net\PruebaTecnica\MicroservicioPersonas\o
 C:\Users\fonse\Documents\curso_angular_net\PruebaTecnica\MicroservicioPersonas\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\fonse\Documents\curso_angular_net\PruebaTecnica\MicroservicioPersonas\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\fonse\Documents\curso_angular_net\PruebaTecnica\MicroservicioPersonas\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\fonse\Documents\curso_angular_net\PruebaTecnica\MicroservicioPersonas\obj\Debug\net9.0\MicroservicioPersonas.sourcelink.json

@@ -176,3 +176,4 @@ C:\Users\fonse\Documents\curso_angular_net\PruebaTecnica\MicroservicioRecetas\ob
 C:\Users\fonse\Documents\curso_angular_net\PruebaTecnica\MicroservicioRecetas\obj\Debug\net9.0\MicroservicioRecetas.pdb
 C:\Users\fonse\Documents\curso_angular_net\PruebaTecnica\MicroservicioRecetas\obj\Debug\net9.0\MicroservicioRecetas.genruntimeconfig.cache
 C:\Users\fonse\Documents\curso_angular_net\PruebaTecnica\MicroservicioRecetas\obj\Debug\net9.0\ref\MicroservicioRecetas.dll
+C:\Users\fonse\Documents\curso_angular_net\PruebaTecnica\MicroservicioRecetas\obj\Debug\net9.0\MicroservicioRecetas.sourcelink.json

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ELYBpyKf2Yo=",
+  "dgSpecHash": "MBPRX+GypYI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\fonse\\Documents\\curso_angular_net\\PruebaTecnica\\MicroservicioCitas\\MicroservicioCitas.csproj",
+  "projectFilePath": "c:\\Users\\fonse\\Documents\\curso_angular_net\\PruebaTecnica\\MicroservicioCitas\\MicroservicioCitas.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fonse\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\fonse\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",

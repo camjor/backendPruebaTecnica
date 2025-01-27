@@ -7,7 +7,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace MicroservicioRecetas.Data.Recetas;
 
-class RecetaRepository : IRecetaRepository
+public class RecetaRepository : IRecetaRepository
 {
     private readonly RecetasContext _context;
     private readonly HttpClient _httpClient;

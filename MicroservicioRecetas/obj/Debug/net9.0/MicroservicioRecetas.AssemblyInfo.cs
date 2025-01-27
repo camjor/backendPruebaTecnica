@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MicroservicioRecetas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3954b1fd4ae9f3e96b206009f6b2c26fe5e7ad7")]
 [assembly: System.Reflection.AssemblyProductAttribute("MicroservicioRecetas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MicroservicioRecetas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
