@@ -57,7 +57,23 @@ Para probar los endpoints de cada microservicio, puedes utilizar Postman o cualq
 ## Personas
 ### post
 - http://localhost:3000/api/Personas/registrar
+```bash
+  {
+  "nombre": "Laura",
+  "apellido": "Perez",
+  "identificacion": "123456",
+  "email": "Laura.perez@gmail.com",
+  "userName": "LauPer",
+  "password": "LauraPerez123$"
+}
+```
 - http://localhost:3000/api/Personas/login
+```bash
+{
+  "email": "Laura.perez@gmail.com",
+  "password": "LauraPerez123$"
+}
+```
 ### get
 - http://localhost:3000/api/Personas
 - http://localhost:3000/api/Personas/all
