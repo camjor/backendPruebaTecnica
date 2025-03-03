@@ -9,6 +9,7 @@ using Microsoft.AspNetCore.Mvc.Authorization;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using MicroservicioPersonas.Data;
+using MicroservicioPersonas.Data.Tareas;
 using MicroservicioPersonas.Data.Personas;
 using MicroservicioPersonas.Middleware;
 using MicroservicioPersonas.Models;
@@ -26,7 +27,7 @@ builder.Services.AddDbContext<PersonasContext>(opt => {
 });
 
 
-
+builder.Services.AddScoped<ITareaRepository, TareaRepository>();
 
 // Add services to the container.
 
@@ -51,6 +52,7 @@ builder.Services.AddScoped<IJwtGenerador, JwtGenerador>();
 builder.Services.AddScoped<IUsuarioSesion, UsuarioSesion>();
 builder.Services.AddScoped<IPersonaRepository, PersonaRepository>();
 
+builder.Services.AddAutoMapper(typeof(Program)); 
 
 var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("bc2f6c58-5186-4e2c-93ca-0143b11b0c0394b6923d-53c7-4849-9d9f-a95590d588e1"));
 //Console.WriteLine("secretKey"+secretKey);

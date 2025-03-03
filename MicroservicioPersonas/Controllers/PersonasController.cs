@@ -95,37 +95,8 @@ public class PersonasController : ControllerBase
         }
         return NoContent();
     }
+    
 
-    [AllowAnonymous]
-    [HttpGet ("pacientes")]
-    public IActionResult GetPacientes()
-    {
-        // Filtrar usuarios con "tipodepersona" igual a "paciente" (ignorar mayúsculas/minúsculas)
-        var pacientes = _context.Personas
-        .Where(u => u.TipoPersona.ToLower() == "paciente")
-        .ToList();
-
-        if (!pacientes.Any())
-        {
-            return NotFound("No se encontraron usuarios con tipo 'paciente'.");
-        }
-
-        return Ok(pacientes);
-        
-    }
-    [AllowAnonymous]
-    [HttpGet ("paciente/{identificacion}")]
-    public async Task<ActionResult<PersonaResponseDto>> GetPaciente(string identificacion)
-    {
-        return await _repository.GetPaciente(identificacion);
-        
-    }
-    [AllowAnonymous]
-    [HttpGet ("medico/{identificacion}")]
-    public async Task<ActionResult<PersonaResponseDto>> GetMedico(string identificacion)
-    {
-        return await _repository.GetMedico(identificacion);
-        
-    }
+    
 }
     

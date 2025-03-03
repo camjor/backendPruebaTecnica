@@ -13,19 +13,10 @@ public class LoadDatabase {
             var usuario = new Persona {
                 Nombre = "Jorge",
                 Apellido = "Fonseca",
-                TipoPersona = "Medico",
-                Especialidad = "General",
                 Identificacion = "98142545",
                 Email="carlos.vaez@gmail.com"
             };
-            /*new Persona {
-                Nombre = "Camilo",
-                Apellido = "Fonseca",
-                TipoPersona = "Paciente",
-                Especialidad = "General",
-                Identificacion = "9812547",
-                Email="Santiago.Gomez@gmail.com"
-            };*/
+            
 
             await usuarioManager.CreateAsync(usuario, "PasswordJorge123$");
 

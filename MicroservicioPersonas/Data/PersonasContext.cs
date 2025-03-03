@@ -13,6 +13,7 @@ public class PersonasContext : IdentityDbContext <Persona> {
         }
 
         public DbSet<Persona> Personas { get; set; }
+        public DbSet<Tarea>? Tareas {get;set;}
     
 }
 
